@@ -1,0 +1,5 @@
+git log = Show history of all commit
+git reset --soft HEAD^ = Remove Last Commit but It will staging place
+git reset --soft HEAD~2 = Remove Number of Commit but It will staging place
+git reset HEAD^ = Remove Last Commit and also It remove staging place
+git reset --hard HEAD^ = Go to last Commit & remove all thing
