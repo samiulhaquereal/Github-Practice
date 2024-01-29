@@ -1,0 +1,13 @@
+mkdir 'folder name' = Folder Create
+ls = List 
+ls -a = List of all content with Hidden file
+cd == Enter Folder 
+cd ../ = Back Folder
+git init = Make folder As Git Folder
+git add 'file name' = Add in Staging Area Single File
+git add . = Add in Staging Area All File
+git restore 'File Name' = Remove Modified File Content and back previous File
+git rm --cached 'file name' = Remove from Staging Area
+git diff = Show what change in File
+git commit -m 'message' = Commit in Local Repository
+
