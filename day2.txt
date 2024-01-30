@@ -11,4 +11,5 @@ git remote add "name" "Link" = Add Local Rep to Github
 git clone 'Link' = Clone Rep Github to Local
 git branch -M main = Create Main branch for new Rep on Github ( Optional )
 git push -u origin main = Push in Github
+git pull origin main = Pull from Github
 
