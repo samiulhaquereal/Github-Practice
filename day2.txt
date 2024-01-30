@@ -16,5 +16,8 @@ git pull origin main = Pull from Github
 git branch = Show All Branch
 git branch 'name' = Create New Branch
 git checkout 'branch_name' = Switch Between Branch
+git branch -b "branch_name" = Create brnach and Switch in New Branch
 git branch -d 'branch_name' = Delete Branch
+
+git merge 'branch_name' = Merge branch with main
 
