@@ -7,3 +7,4 @@ git reset --hard HEAD^ = Go to last Commit & remove all thing
 git show = Show last commit / Head all details
 git checkout "commit id" = Back to Previous commit or Main Commit (master)
 git remote add "name" "Link" = Add Local Rep to Github
+git clone 'Link' = Clone Rep Github to Local
