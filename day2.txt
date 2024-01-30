@@ -13,3 +13,8 @@ git branch -M main = Create Main branch for new Rep on Github ( Optional )
 git push -u origin main = Push in Github
 git pull origin main = Pull from Github
 
+git branch = Show All Branch
+git branch 'name' = Create New Branch
+git checkout 'branch_name' = Switch Between Branch
+git branch -d 'branch_name' = Delete Branch
+
