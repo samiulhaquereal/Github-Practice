@@ -6,3 +6,4 @@ git reset HEAD^ = Remove Last Commit and also It remove staging place
 git reset --hard HEAD^ = Go to last Commit & remove all thing
 git show = Show last commit / Head all details
 git checkout "commit id" = Back to Previous commit or Main Commit (master)
+git remote add "name" "Link" = Add Local Rep to Github
